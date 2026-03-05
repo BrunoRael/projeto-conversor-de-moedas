@@ -8,31 +8,31 @@ O sistema permite converter valores de Real (BRL) para:
 
 💶 Euro (EUR)
 
----
+
 
 ## 🚀 Funcionalidades
 
-Conversão de Real para Dólar
+* Conversão de Real para Dólar
 
-Conversão de Real para Euro
+* Conversão de Real para Euro
 
-Alteração dinâmica do nome da moeda
+* Alteração dinâmica do nome da moeda
 
-Alteração dinâmica da bandeira
+* Alteração dinâmica da bandeira
 
-Interface simples e intuitiva
+* Interface simples e intuitiva
 
----
+
 
 ## 🛠 Tecnologias Utilizadas
 
-HTML5
+* HTML5
 
-CSS3
+* CSS3
 
-JavaScript
+* JavaScript
 
----
+
 
 ## 📚 Aprendizados
 
@@ -48,6 +48,10 @@ Organização de código
 
 Uso de boas práticas em commits
 
----
+
 
 🔗 Acesse o projeto online: https://brunorael.github.io/projeto-conversor-de-moedas/
+
+
+<img src="./assets/pagina.conversor.jpeg">
+<img src="./assets/conversao.jpeg">
