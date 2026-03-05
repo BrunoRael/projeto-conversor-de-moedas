@@ -1,4 +1,4 @@
-💱 Conversor de Moedas
+## 💱 Conversor de Moedas
 
 Projeto de conversão de moedas desenvolvido com HTML, CSS e JavaScript.
 
@@ -8,8 +8,9 @@ O sistema permite converter valores de Real (BRL) para:
 
 💶 Euro (EUR)
 
+---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Conversão de Real para Dólar
 
@@ -21,8 +22,9 @@ Alteração dinâmica da bandeira
 
 Interface simples e intuitiva
 
+---
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 HTML5
 
@@ -30,8 +32,9 @@ CSS3
 
 JavaScript
 
+---
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Este projeto foi desenvolvido com foco em:
 
@@ -44,3 +47,7 @@ Estruturação de layout
 Organização de código
 
 Uso de boas práticas em commits
+
+---
+
+## 🔗 Acesse o projeto online: https://brunorael.github.io/projeto-conversor-de-moedas/
